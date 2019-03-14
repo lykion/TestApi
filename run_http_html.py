@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Author  : leizi
 import datetime
 import os
 import time
